@@ -1,0 +1,16 @@
+<resources>
+    <!-- Category Tab Text -->
+    <dimen name="textSize_categoryTabText">9sp</dimen>
+    <!-- Card -->
+    <dimen name="cornerRadius">40dp</dimen>
+    <dimen name="marginLeftRight">4dp</dimen>
+    <dimen name="marginTopBottom">4dp</dimen>
+
+    <!-- Text -->
+    <dimen name="minHeight_Containers">120dp</dimen>
+    <dimen name="padding_Text">8dp</dimen>
+
+    <!-- Icons -->
+    <dimen name="padding_Icons">4dp</dimen>
+
+</resources>

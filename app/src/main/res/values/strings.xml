@@ -1,0 +1,180 @@
+<resources>
+    <!-- Application Name -->
+    <string name="app_name">Cluj Tour Guide</string>
+
+    <!-- Category names for each fragment -->
+    <string name="category_attractions">Attractions</string>
+    <string name="category_restaurants">Restaurants</string>
+    <string name="category_nightlife">Night Life</string>
+    <string name="category_hotels">Hotels</string>
+
+    <!-- Strings for Duration Unit TextView -->
+    <string name="unit_hours">hrs</string>
+    <string name="unit_days">days</string>
+
+    <!-- Strings for Attractions -->
+    <!-- Titles -->
+    <string name="botanical_garden">The Botanical Garden</string>
+    <string name="etnographic_parck">National Ethnographic Park “Romulus Vuia”</string>
+    <string name="st_michael_church">St Michael’s Church</string>
+    <string name="turda_salt_mine">Turda Salt Mine</string>
+    <string name="history_museum">National History Museum of Transylvania</string>
+    <string name="central_park">The Central Park</string>
+    <string name="pharmacy_museum">The Pharmacy Museum</string>
+
+    <!-- Short Description -->
+    <string name="description_botanical_garden">The Botanical garden situated in the center of the town. These wonderfully relaxing gardens comprise rockeries, neoclassical statues peeping from tangles of rose, and a Japanese-style garden with a crimson bridge spanning a turtle pond. At the heart of the gardens, find the Botanical Museum (Muzeul Botanic), exhibiting vegetal curios from bottled fruits to fern fossils.</string>
+    <string name="description_etnographic_parck">Traditional architecture from around Romania has been faithfully reassembled at this open-air museum, 5km northwest of central Cluj. Most impressive is the Cizer Church; get the attention of a caretaker to allow you inside to view frescoes covering its wooden interior.</string>
+    <string name="description_st_michael_church">The showpiece of Piaţa Unirii is 14th- and 15th-century St Michael’s, the second biggest Gothic church in Romania (after Braşov’s Black Church). Its neo-Gothic clocktower (1859) towers 80m high, while original Gothic features – such as the 1444 front portal – can still be admired. Inside, soaring rib vaults lift the gaze towards fading frescoes.</string>
+    <string name="description_turda_salt_mine">Close to Cluj-Napoca and easily reachable by bus or a car ride there’s Turda Salt Mine. The mine has been opened as a tourist attraction back in 1992 and offers a lot of interesting activities. Once you enter, there’s a mining museum, depicting the history of mining in Transylvania and at Turda in particular. As you go further down into the belly of the earth, you will be amazed by the amenities. There’s a Ferris wheel, an amphitheater, mini golf course, billiards, and even a lake on which you can take boat rides.</string>
+    <string name="description_history_museum">Within this museum of regional history you’ll discover Dacian artefacts, mostly from Sarmizegetusa’s archaeological sites, including glass blow pipes, blacksmithing tools, reconstructed urns and silver bracelets. English information is scant, but there are a few virtual reality games aimed at children, to immerse you in historic Romanian dwellings.</string>
+    <string name="description_central_park">Central Park is large and offers a lot of places to walk, job, take a bike ride, or just sit down and relax. There is a pond on which you can take paddle boats for a ride. But you can also feed the ducks (and other feathered friends as sometimes there are swans, too). And if you feel guilty after indulging in a bit too much food earlier in the day, you can even work out for free!</string>
+    <string name="description_pharmacy_museum">Cluj-Napoca’s oldest pharmacy building holds an intriguing collection of medical miscellany. ‘Crab eyes’, skulls, and powdered mummy are just a few of the cures on display in these antique-filled rooms. The prettiest is the Officina, a polished room with dark filigree swirling around its walls. You’ll also learn that the 18th-century recipe for a love potion sounds suspiciously like mulled wine.</string>
+
+    <!-- Addresses -->
+    <string name="address_botanical_garden">Republicii Street, no 42</string>
+    <string name="address_etnographic_parck">Taietura Turcului Street</string>
+    <string name="address_st_michael_church">Unirii Square</string>
+    <string name="address_turda_salt_mine">Durgaului Alley, no 7</string>
+    <string name="address_history_museum">Museum Square</string>
+    <string name="address_central_park">Iuliu Hossu Cardinal Street</string>
+    <string name="address_pharmacy_museum">Unirii Square, no 28</string>
+
+    <!-- Price Range -->
+    <string name="price_range_botanical_garden">$$</string>
+    <string name="price_range_etnographic_parck">$$</string>
+    <string name="price_range_st_michael_church">Free</string>
+    <string name="price_range_turda_salt_mine">$$</string>
+    <string name="price_range_history_museum">$$</string>
+    <string name="price_range_central_park">Free</string>
+    <string name="price_range_pharmacy_museum">$$</string>
+
+    <!-- Strings for Resaurants -->
+    <!-- Titles -->
+    <string name="samsara">Samsara Food House</string>
+    <string name="via_restaurant">VIA Restaurant</string>
+    <string name="baracca">Baracca </string>
+    <string name="olivo_caffe_bistro">Olivo Caffe Bistro</string>
+    <string name="roata">Roata</string>
+    <string name="zama">Zama</string>
+    <string name="a_amponeza">A Camponeza</string>
+
+    <!-- Addresses -->
+    <string name="address_samsara">Roth Stephan Ludwig Street, no 5</string>
+    <string name="address_via_restaurant">Micu Klein Inocentiu Street, no 6</string>
+    <string name="address_baracca">Napoca Street, no 8A </string>
+    <string name="address_olivo_caffe_bistro">Eroilor Boulevard, no 7</string>
+    <string name="address_roata">Alexandru Ciurea Street, no 6</string>
+    <string name="address_zama"> Napoca Street, no 16</string>
+    <string name="address_a_amponeza">Emile Zola Street, no 2</string>
+
+    <!-- Phone Number -->
+    <string name="phone_number_samsara">+40 364 889 278</string>
+    <string name="phone_number_via_restaurant">40 264 593 220</string>
+    <string name="phone_number_baracca">+40 732 155 177</string>
+    <string name="phone_number_olivo_caffe_bistro">+40 732 331 099</string>
+    <string name="phone_number_roata">+40 755 080 777</string>
+    <string name="phone_number_zama">+40 755 080 777</string>
+    <string name="phone_number_a_amponeza">+40 734 047 713</string>
+
+    <!-- Short Description -->
+    <string name="description_samsara">Vegetarian, European, International</string>
+    <string name="description_via_restaurant">Italian, European, Central European</string>
+    <string name="description_baracca">Italian, French, International</string>
+    <string name="description_olivo_caffe_bistro">Bar, Cafe, Vegetarian</string>
+    <string name="description_roata">European, Eastern European, Central European</string>
+    <string name="description_zama">European, Romanian, Soups</string>
+    <string name="description_a_amponeza">Seafood, Mediterranean, Barbecue</string>
+
+    <!-- Price Range -->
+    <string name="price_range_samsara">$$$</string>
+    <string name="price_range_via_restaurant">$$$</string>
+    <string name="price_range_baracca">$$$</string>
+    <string name="price_range_olivo_caffe_bistro">$$$</string>
+    <string name="price_range_roata">$$$</string>
+    <string name="price_range_zama">$$$</string>
+    <string name="price_range_a_amponeza">$$$</string>
+
+
+    <!-- Strings for Night Life -->
+    <!-- Titles -->
+    <string name="the_londoner">The Londoner - Great English Pub</string>
+    <string name="the_lab_cocktail">The Lab Cocktail Bistro</string>
+    <string name="flying_circus">Flying Circus PUB</string>
+    <string name="nest_of_angels">NOA – Nest of Angels</string>
+    <string name="che_guevara">Che Guevara Social Pub</string>
+    <string name="after_eight">After Eight Cocktail Club</string>
+    <string name="euphoria">Euphoria Music Hall</string>
+    <string name="diesel_club">Diesel Club</string>
+
+    <!-- Addresses -->
+    <string name="address_the_londoner">Emile Zola Street, no 2</string>
+    <string name="address_the_lab_cocktail">Avram Iancu Street, no 12</string>
+    <string name="address_flying_circus">Universitatii Street, no 3</string>
+    <string name="address_nest_of_angels">Republicii Street, no 109</string>
+    <string name="address_che_guevara">Unirii Square, no 10</string>
+    <string name="address_after_eight">Brassai Samuel Street, no 12</string>
+    <string name="address_euphoria">Manastur Way, no 2/6</string>
+    <string name="address_diesel_club">Unirii Square, no 17</string>
+
+    <!-- Short Description -->
+    <string name="description_the_londoner">Great pub to meet up with friends. Very good cocktails.</string>
+    <string name="description_the_lab_cocktail">Great drinks, chill music, vintage sounding.</string>
+    <string name="description_flying_circus">Great parties and cheap prices.</string>
+    <string name="description_nest_of_angels">One of the most modern night club in Romania.</string>
+    <string name="description_che_guevara">Good wines and vibes.</string>
+    <string name="description_after_eight">Great parties, nice place to dance all night long.</string>
+    <string name="description_euphoria">Excellent parties, nice music events</string>
+    <string name="description_diesel_club">A very well-known and fancy club situated in the center of the town.</string>
+
+    <!-- Price Range -->
+    <string name="price_range_the_londoner">$$$</string>
+    <string name="price_range_the_lab_cocktail">$$$</string>
+    <string name="price_range_flying_circus">$$$</string>
+    <string name="price_range_nest_of_angels">$$$$</string>
+    <string name="price_range_che_guevara">$$$</string>
+    <string name="price_range_after_eight">$$$</string>
+    <string name="price_range_euphoria">$$$</string>
+    <string name="price_range_diesel_club">$$$</string>
+
+    <!-- Strings for Hotels -->
+    <!-- Titles -->
+    <string name="hilton">Hampton by Hilton </string>
+    <string name="grand_hotel_italia">Grand Hotel Italia</string>
+    <string name="grand_hotel_napoca">Grand Hotel Napoca </string>
+    <string name="opera_plaza">Opera Plaza Hotel</string>
+    <string name="alexgeorge">Alex and George Hotel</string>
+    <string name="sunny_hill">Sunny Hill Hotel</string>
+    <string name="sun_hotel">Sun Hotel</string>
+
+    <!-- Addresses -->
+    <string name="address_hilton">21 December Street, no 67</string>
+    <string name="address_grand_hotel_italia">Grand Hotel Italia</string>
+    <string name="address_grand_hotel_napoca">Octavian Goga Street, no 1</string>
+    <string name="address_alexgeorge">Turda Way, no 86</string>
+    <string name="address_opera_plaza">Traian Mosoiu General, no 10/12</string>
+    <string name="address_sunny_hill">Fagetului Street, no 31A</string>
+    <string name="address_sun_hotel">1 December 1918 Avenue, no 120A </string>
+
+    <!-- Short Description -->
+    <string name="description_hilton">3.5 Star Hotel</string>
+    <string name="description_grand_hotel_italia">5 Star Hotel</string>
+    <string name="description_grand_hotel_napoca">4 Star Hotel</string>
+    <string name="description_opera_plaza">5 Star Hotel</string>
+    <string name="description_alexgeorge">4 Star Hotel</string>
+    <string name="description_sunny_hill">4 Star Hotel</string>
+    <string name="description_sun_hotel">4 Star Hotel</string>
+
+    <!-- Price Range -->
+    <string name="price_range_hilton">$$$</string>
+    <string name="price_range_grand_hotel_italia">$$$</string>
+    <string name="price_range_grand_hotel_napoca">$$$</string>
+    <string name="price_range_opera_plaza">$$$</string>
+    <string name="price_range_alexgeorge">$$$</string>
+    <string name="price_range_sunny_hill">$$$</string>
+    <string name="price_range_sun_hotel">$$$</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>
